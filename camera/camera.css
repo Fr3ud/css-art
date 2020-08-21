@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.camera {
+    width: 205px;
+    height: 155px;
+    background-color: #D7D7D7;
+    border-radius: 15px;
+    box-shadow: 0 10px 15px -13px black;
+}
